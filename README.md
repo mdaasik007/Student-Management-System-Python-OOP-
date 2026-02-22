@@ -22,6 +22,7 @@ Teacher is a Person
         Person
         /    \
    Student   Teacher
+   
 🔹 2. Aggregation (HAS-A Weak Relationship)
 
 School has Students
@@ -75,6 +76,7 @@ location	str
 students	list
 teachers	list
 class_room	list
+
 🔧 School Methods
 add_students(student)
 add_teacher(teacher)
@@ -107,21 +109,18 @@ python your_script_name.py
 Students:
 
 Aasik – AI & ML
-
 Akbar – AI & DS
-
 Anwar – IT
 
 Teachers:
-
 Abdul – Python
-
 Azmar – JAVA
-
 Abdul – ML
 
 Schools:
-
 HISAC (CBE)
-
 HICAS (CBE)
+
+👨‍💻 Author
+Mohammed Aasik . A
+Python Developer 🚀
