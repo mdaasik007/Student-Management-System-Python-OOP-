@@ -1,0 +1,47 @@
+School :HISAC
+School Location :CBE
+Students:
+Student Name: Aasik
+Age: 19
+Student ID: 1231123
+Course: AI & ML
+Student Name: Akbar
+Age: 20
+Student ID: 1102388
+Course: AI & DS
+
+Teachers:
+Teacher Name: Abdul
+Age: 30
+Employee ID: 1101110
+Subject: Python
+Teacher Name: Azmar
+Age: 26
+Employee ID: 1101121
+Subject: JAVA
+
+ClassRoom :
+Room NO: 101
+Capacity: 40
+
+Room NO: 102
+Capacity: 35
+-----------------------
+School :HICAS
+School Location :CBE
+Students:
+Student Name: Anwar
+Age: 19
+Student ID: 1231100
+Course: IT
+
+Teachers:
+Teacher Name: Abdul
+Age: 38
+Employee ID: 1101122
+Subject: ML
+
+ClassRoom :
+Room NO: 201
+Capacity: 50
+-----------------------
